@@ -48,7 +48,6 @@ section{
 #homesection{
     float:left;
     width: 70%;
-    height: 500px;
     
 }
 #homesection h3{
@@ -66,7 +65,6 @@ section{
 #portfoliosection{
     float: right;
     width: 29%;
-    height: 500px;
 }
 
 #portfoliosection h3{
