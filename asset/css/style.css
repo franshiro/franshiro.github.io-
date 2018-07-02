@@ -44,11 +44,11 @@ section{
     margin-top: 20px;
     margin-bottom: 20px;
     background-image: url("../img/background-texture-2.jpg");
+    
 }
 #homesection{
     float:left;
     width: 70%;
-    
 }
 #homesection h3{
     padding: 10px;
@@ -59,8 +59,10 @@ section{
 #homesection .materi{
     padding: 10px;
     text-align: left;
-    background-color: rgb(90, 88, 88);
+    background-color: black;
     margin : 10px;
+    opacity: 0.5;
+    color: white;
 }
 #portfoliosection{
     float: right;
