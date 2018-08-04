@@ -11,7 +11,7 @@ function weddingplanner(){
     newItem.appendChild(text)
 
     if(item === ''){
-     alert('tidak boleh kosong')   
+     message('tidak boleh kosong')   
     }
     else{
         document.getElementById(bulan).appendChild(newItem)
