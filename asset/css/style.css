@@ -64,6 +64,20 @@ section{
     opacity: 0.5;
     color: white;
 }
+#homesection form{
+    display: inline;;
+}
+#homesection form datalist{
+    width: 20%
+}
+#homesection form input{
+    width: 60%
+}
+homesection form button{
+    width: 20%
+}
+
+
 #portfoliosection{
     float: right;
     width: 29%;
